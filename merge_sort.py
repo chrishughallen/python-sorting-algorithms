@@ -25,4 +25,4 @@ def merge_sort(values):
   return sorted_values
 
 sorted_numbers = merge_sort(numbers)
-print(sorted_numbers)
+print(sorted_numbers) 
